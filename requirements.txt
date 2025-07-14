@@ -23,3 +23,4 @@ streamlit-elements
 streamlit-autorefresh
 gputil
 chardet
+mutagen
